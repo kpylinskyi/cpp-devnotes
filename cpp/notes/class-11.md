@@ -1,5 +1,3 @@
-Continuing from where you left off, here are the expanded notes with additional details and completion:
-
 # Type Casting
 Type casting in C++ allows conversion of one data type to another. There are several types of casts, each with specific use cases and rules.
 

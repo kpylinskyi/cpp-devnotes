@@ -1,5 +1,3 @@
-Continuing with your notes on Object-Oriented Programming (OOP) concepts in C++, here’s a more detailed and organized continuation:
-
 # III. Basics of OOP
 
 ## 3.1 Classes and Structures, Encapsulation
