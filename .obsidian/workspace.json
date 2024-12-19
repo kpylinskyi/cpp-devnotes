@@ -1,0 +1,170 @@
+{
+  "main": {
+    "id": "891cbdc330fa2066",
+    "type": "split",
+    "children": [
+      {
+        "id": "6cd7d4f6906e261d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e89778e6f54d1524",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cpp/notes/class-14.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "class-14"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5feb856b0a9da7bd",
+    "type": "split",
+    "children": [
+      {
+        "id": "d82b5e268021a9a8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f3b0fcfaf54140b1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e537c6fb2d4f7253",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "68cec82748e6d338",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "880ef49b12c42eee",
+    "type": "split",
+    "children": [
+      {
+        "id": "bdc1fc3fab98337d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5daa465d8b541971",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "cpp/notes/class-14.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for class-14"
+            }
+          },
+          {
+            "id": "d0af1b177bfb123e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "cpp/notes/class-14.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from class-14"
+            }
+          },
+          {
+            "id": "30a8bb3d5d944c02",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "6c9ff96f4c2d7cc4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "cpp/notes/class-14.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of class-14"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "e89778e6f54d1524",
+  "lastOpenFiles": [
+    "cpp/notes/class-13.md",
+    "cpp/notes/class-14.md"
+  ]
+}
