@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cpp/notes/class-14.md",
+                "file": "cpp/notes/class-15.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "class-14"
+              "title": "class-15"
             }
           }
         ]
@@ -164,7 +164,8 @@
   },
   "active": "e89778e6f54d1524",
   "lastOpenFiles": [
-    "cpp/notes/class-13.md",
-    "cpp/notes/class-14.md"
+    "cpp/notes/class-14.md",
+    "cpp/notes/class-15.md",
+    "cpp/notes/class-13.md"
   ]
 }
